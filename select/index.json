@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "メトロナイト",
+  "base_artist": "早見沙織",
+  "createdAt": "2026-03-16T13:14:16.797854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メトロナイト",
+      "artist": "早見沙織",
+      "has_synced": true,
+      "path": "select/01_メトロナイト_早見沙織.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メトロナイト",
+      "artist": "早見沙織",
+      "has_synced": true,
+      "path": "select/02_メトロナイト_早見沙織.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メトロナイト",
+      "artist": "Tokino, Sora",
+      "has_synced": true,
+      "path": "select/03_メトロナイト_Tokino,_Sora.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メトロナイト",
+      "artist": "ときのそら",
+      "has_synced": true,
+      "path": "select/04_メトロナイト_ときのそら.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メトロナイト [instrumental]",
+      "artist": "早見沙織",
+      "has_synced": true,
+      "path": "select/05_メトロナイト_[instrumental]_早見沙織.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メトロナイト",
+      "artist": "Sora Tokino",
+      "has_synced": true,
+      "path": "select/06_メトロナイト_Sora_Tokino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メトロナイト",
+      "artist": "Tokinosora",
+      "has_synced": true,
+      "path": "select/07_メトロナイト_Tokinosora.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メトロナイト",
+      "artist": "Saori Hayami",
+      "has_synced": true,
+      "path": "select/08_メトロナイト_Saori_Hayami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メトロナイト",
+      "artist": "早見沙織",
+      "has_synced": false,
+      "path": "select/pl_01_メトロナイト_早見沙織.txt"
+    }
+  ]
+}
